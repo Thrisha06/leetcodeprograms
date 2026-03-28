@@ -5,6 +5,7 @@ public class Baseballgame {
 
         String[] operation = {"5","2","C","D","+"};
         ArrayList<Integer> scores = new ArrayList<>();
+        //added the small comment
 
         for (String op : operation) {
 
